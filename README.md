@@ -1,4 +1,4 @@
-# Agendamiento IPS
+# Agendamiento IPS  PATRICIAY
 
 Proyecto MINTIC2022, Grupo 32 Ciclo 3, Desarrollo de Software, Sprint 1 y 2.
 
